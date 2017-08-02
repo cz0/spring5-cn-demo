@@ -1,0 +1,3 @@
+server:
+  port: 8000
+token: "go here https://api.slack.com/custom-integrations/legacy-tokens to generate your token"
